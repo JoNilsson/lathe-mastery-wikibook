@@ -11,7 +11,7 @@ MD013:
 MD022: true
 MD024:
   siblings_only: true
-MD025: true
+MD025: false
 MD026: true
 MD033: false
 MD040: true

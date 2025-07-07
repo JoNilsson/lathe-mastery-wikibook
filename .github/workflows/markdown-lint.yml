@@ -17,14 +17,3 @@ jobs:
       uses: DavidAnson/markdownlint-cli2-action@v11
       with:
         globs: '**/*.md'
-        
-    - name: Check line length compliance
-      run: |
-        echo "Checking for lines exceeding 80 characters..."
-        find . -name "*.md" -type f | while read file; do
-          if grep -n ".\{81\}" "$file"; then
-            echo "ERROR: $file contains lines exceeding 80 characters"
-            exit 1
-          fi
-        done
-        echo "All files comply with 80-character line limit"

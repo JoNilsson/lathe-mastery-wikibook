@@ -10,15 +10,40 @@
     flake-utils.lib.eachDefaultSystem (system:
       let
         pkgs = nixpkgs.legacyPackages.${system};
+        
+        python = pkgs.python311;
+        
+        mdx-truly-sane-lists = python.pkgs.buildPythonPackage rec {
+          pname = "mdx-truly-sane-lists";
+          version = "1.3";
+          format = "setuptools";
+          
+          src = python.pkgs.fetchPypi {
+            pname = "mdx_truly_sane_lists";
+            inherit version;
+            hash = "sha256-tmECLfdSCh4ROvfDVcYiFrOEyGfk9Z+47nrVEebnf0U=";
+          };
+          
+          propagatedBuildInputs = with python.pkgs; [
+            markdown
+          ];
+          
+          pythonImportsCheck = [ "mdx_truly_sane_lists" ];
+        };
+        
+        pythonWithPackages = python.withPackages (ps: with ps; [
+          mkdocs
+          mkdocs-material
+          pygments
+          pymdown-extensions
+          mdx-truly-sane-lists
+        ]);
+        
       in
       {
         devShells.default = pkgs.mkShell {
           buildInputs = with pkgs; [
-            python311
-            python311Packages.mkdocs
-            python311Packages.mkdocs-material
-            python311Packages.pygments
-            python311Packages.pymdown-extensions
+            pythonWithPackages
           ];
 
           shellHook = ''

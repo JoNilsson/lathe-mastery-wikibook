@@ -119,7 +119,7 @@ Start with mild steel square bar (1/4" or 3/8"):
 - Creates clearance below cutting edge
 - Compound angle: 10° down, 5° sideways
 
-**Surface 2: Side Relief (Side Clearance)**  
+**Surface 2: Side Relief (Side Clearance)**
 
 - Prevents rubbing on side cuts
 - Simple 10° angle
@@ -173,13 +173,13 @@ Start with mild steel square bar (1/4" or 3/8"):
 
 ## Angle Reference Chart
 
-| Material        | End Relief | Side Relief | Side Rake | Back Rake |
-|----------------|-----------|-------------|-----------|-----------|
-| Brass          | 10°       | 10°         | 0°        | 0°        |
-| Mild Steel     | 10°       | 10°         | 10°       | 5-8°      |
-| Cast Iron      | 10°       | 10°         | 5°        | 5°        |
-| Aluminum       | 10°       | 10°         | 15°       | 35°       |
-| Stainless      | 10°       | 10°         | 10°       | 5-8°      |
+| Material   | End Relief | Side Relief | Side Rake | Back Rake |
+| ---------- | ---------- | ----------- | --------- | --------- |
+| Brass      | 10°        | 10°         | 0°        | 0°        |
+| Mild Steel | 10°        | 10°         | 10°       | 5-8°      |
+| Cast Iron  | 10°        | 10°         | 5°        | 5°        |
+| Aluminum   | 10°        | 10°         | 15°       | 35°       |
+| Stainless  | 10°        | 10°         | 10°       | 5-8°      |
 
 ## Finishing Operations
 
@@ -229,7 +229,8 @@ Start with mild steel square bar (1/4" or 3/8"):
 - Too much pressure
 - Wheel too hard
 - Feed too aggressive
-**Solution:** Lighter touch, dress wheel, reduce feed
+
+  **Solution:** Lighter touch, dress wheel, reduce feed
 
 ### Problem: Burned or Blue Tool
 
@@ -238,7 +239,8 @@ Start with mild steel square bar (1/4" or 3/8"):
 - Dull wheel
 - Excessive pressure
 - Insufficient cooling
-**Solution:** Dress wheel, reduce pressure, cool more often
+
+  **Solution:** Dress wheel, reduce pressure, cool more often
 
 ### Problem: Poor Surface Finish When Cutting
 
@@ -247,7 +249,8 @@ Start with mild steel square bar (1/4" or 3/8"):
 - Incorrect angles
 - No nose radius
 - Rough grinding marks
-**Solution:** Check angles, add radius, finish with fine wheel
+
+  **Solution:** Check angles, add radius, finish with fine wheel
 
 ### Problem: Tool Rubs Instead of Cuts
 
@@ -256,7 +259,8 @@ Start with mild steel square bar (1/4" or 3/8"):
 - Insufficient clearance angles
 - Heel dragging
 - Tool below center
-**Solution:** Increase relief angles, check tool height
+
+  **Solution:** Increase relief angles, check tool height
 
 ## Advanced Techniques
 

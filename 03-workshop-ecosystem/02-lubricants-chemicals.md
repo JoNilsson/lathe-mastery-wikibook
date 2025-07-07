@@ -332,6 +332,11 @@ application. Start with the essentials—way oil and cutting fluid—then expand
 your inventory based on specific needs. Remember that regular maintenance
 with quality lubricants costs far less than replacing worn components.
 
-Treat chemicals with respect, store them properly, and always prioritize
-safety. A well-maintained fluid system keeps your machines running smoothly
-and your work progressing efficiently for years to come.
+Treat chemicals with respect. Study the Material Safety Data Sheets (MSDS)
+for every fluid in your shop—know their hazards, proper handling procedures,
+and emergency response measures. Store all chemicals according to their MSDS
+specifications, maintaining proper ventilation, temperature control, and
+segregation of incompatible materials. Always prioritize safety.
+
+A well-maintained fluid system keeps your machines running smoothly and your
+work progressing efficiently for years to come.

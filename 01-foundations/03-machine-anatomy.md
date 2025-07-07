@@ -70,7 +70,7 @@ Features include:
 - Precision lead screw
 - Graduated dial for measurements
 - Dovetail ways for smooth movement
-- Mounting surface for compound
+- Mounting surface for compound rest,
 
 #### Compound Rest
 
@@ -82,6 +82,7 @@ Used for:
 - Thread relief angles
 - Fine positioning
 - Short precision movements
+- Precision facing operations
 
 #### Tool Post
 
@@ -95,6 +96,7 @@ Modern lathes typically use:
 ### The Tailstock
 
 The tailstock provides support for long work and holds drilling tools.
+
 Key features:
 
 - **Quill**: Extends to support work or feed drills
@@ -105,7 +107,8 @@ Key features:
 ## Control Systems
 
 Understanding your lathe's controls prevents accidents and enables efficient
-operation.
+operation. Not all lathes have the same controls. Study your lathe manual
+to become familiar with your machines particulars.
 
 ### Primary Controls
 
@@ -123,6 +126,7 @@ Practice hitting it before you need it.
 #### Carriage Handwheel
 
 Controls longitudinal movement (Z-axis).
+
 Features:
 
 - Graduated collar for measurements
@@ -132,6 +136,7 @@ Features:
 #### Cross Slide Handwheel
 
 Controls cross movement (X-axis).
+
 Critical features:
 
 - Precision graduations (often 0.001" per division)
@@ -141,6 +146,7 @@ Critical features:
 #### Compound Handwheel
 
 Controls compound slide movement.
+
 Characteristics:
 
 - Finest graduations of all handwheels
@@ -152,6 +158,7 @@ Characteristics:
 #### Power Feed
 
 Automated carriage movement for smooth cuts.
+
 Components include:
 
 - Feed rate selector (distance per revolution)
@@ -249,7 +256,7 @@ Standard industrial machines:
 
 - Full-featured controls
 - Power feeds in multiple axes
-- Threading capability standard
+- Threading capability is a standard features
 
 ### Toolroom Lathes
 
@@ -258,12 +265,14 @@ Precision machines with:
 - Finer adjustment capability
 - Better surface finishes
 - Tighter tolerances
-- Higher cost
+- Comes with higher cost
 
 ## Developing Machine Feel
 
 Reading specifications tells you what a machine can do.
+
 Operating it teaches you what it will do.
+
 Develop sensitivity to:
 
 - Normal running sounds versus problems
@@ -289,5 +298,6 @@ Watch for:
 - Oil leaks or dry spots
 - Worn or damaged components
 
-Report problems immediately.
-Small issues become major repairs if ignored.
+Report or address problems with the lathe immediately.
+
+Small issues become major repairs or hospital visits if ignored.

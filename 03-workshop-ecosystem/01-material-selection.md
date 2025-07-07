@@ -71,18 +71,21 @@ types. Understanding the basics helps avoid costly mistakes and frustration.
 - Ideal first steel for beginners
 
 **Mystery Steel Warning**
-Avoid random steel of unknown origin. Without knowing the grade:
+
+Avoid random steel of unknown origin.
+
+Without knowing the grade:
 
 - Proper speeds and feeds cannot be determined
 - Results will be inconsistent
 - Learning becomes unnecessarily difficult
 - Safety risks increase with unknown materials
 
-Always purchase known grades and label your stock clearly.
+Always purchase known grades. Label and store your stock clearly.
 
 ## Aluminum Alloys for Beginners
 
-Aluminum offers lightweight, corrosion-resistant options that machine well.
+Aluminum offers lightweight, corrosion-resistant options that machine well.  
 For hobby work, one alloy dominates.
 
 **6061 Aluminum**
@@ -257,4 +260,3 @@ Proper material storage prevents confusion and waste:
 - Avoid beryllium copper and leaded materials without proper ventilation
 - Research any unknown materials before cutting
 - Some plastics release dangerous gases when heated
-

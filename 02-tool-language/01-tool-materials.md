@@ -43,7 +43,7 @@ strategies ease the transition:
 **Pre-ground sets** provide immediate usability. Available in common
 sizes (1/4" and 3/8"), these sets include standard shapes for turning,
 facing, and threading operations. Factory-ground tools often feature
-curved grooves for rake angles - a manufacturing convenience that works
+curved grooves for [rake angles](https://en.wikipedia.org/wiki/Rake_angle) - a manufacturing convenience that works
 effectively.
 
 **Custom grinding** becomes essential as skills develop. The ability to
@@ -145,7 +145,7 @@ carbide. HSS's flexibility better tolerates less rigid setups.
 ### Work Requirements
 
 **Material type**: Soft materials like aluminum and brass work well with
-either option. Harder steels may benefit from carbide if machine allows.
+either option. Harder steels may benefit from carbide if the machine allows.
 
 **Cut type**: Continuous cuts suit both materials. Interrupted cuts
 strongly favor HSS's toughness.
@@ -188,7 +188,7 @@ create razor-sharp edges that cut flesh as easily as metal.
 
 ## Conclusion
 
-For most home shop work, high-speed steel provides the best combination
+For most small shop work, high-speed steel provides the best combination
 of versatility, forgiveness, and economy. Its ability to handle varied
 operations, ease of customization, and tolerance for less-than-ideal
 conditions make it the practical choice for smaller machines.

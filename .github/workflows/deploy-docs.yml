@@ -32,6 +32,7 @@ jobs:
           mkdocs-material>=9.0.0
           pygments>=2.16.0
           pymdown-extensions>=10.0
+          mdx-truly-sane-lists>=1.3
           EOF
 
       - name: Setup Python

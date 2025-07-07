@@ -36,6 +36,9 @@ plugins:
   - tags
 
 markdown_extensions:
+  - mdx_truly_sane_lists:
+      nested_indent: 2
+      truly_sane: true
   - admonition
   - pymdownx.details
   - pymdownx.superfences

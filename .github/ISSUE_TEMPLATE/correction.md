@@ -8,14 +8,14 @@ assignees: ''
 
 ## Error Location
 
-Chapter/Section: 
-Paragraph/Line (if applicable): 
+Chapter/Section:
+Paragraph/Line (if applicable):
 
 ## Current Content
 
 Quote the incorrect content:
 
-> 
+>
 
 ## Correction
 
@@ -24,11 +24,12 @@ What should it say instead?
 ## Explanation
 
 Why is this correction needed?
+
 - [ ] Technical inaccuracy
 - [ ] Safety concern
 - [ ] Outdated information
 - [ ] Typo/grammar
-- [ ] Other: 
+- [ ] Other:
 
 ## Supporting Evidence
 

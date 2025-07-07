@@ -9,7 +9,7 @@ assignees: ''
 ## Current State
 
 Which section could be improved?
-Chapter/Section: 
+Chapter/Section:
 
 What's currently there?
 
@@ -20,11 +20,12 @@ How would you improve it?
 ## Rationale
 
 Why would this enhancement help readers?
+
 - [ ] Clearer explanation
 - [ ] Better examples
 - [ ] Additional safety information
 - [ ] More complete coverage
-- [ ] Other: 
+- [ ] Other:
 
 ## Implementation Ideas
 

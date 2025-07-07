@@ -30,7 +30,7 @@ Two critical ratios determine when support is necessary:
 **The 5:1 Rule (Maximum)**
 
 - Absolute maximum unsupported length
-- Only for aluminum and soft materials  
+- Only for aluminum and soft materials
 - Limited to very light finishing cuts
 
 **WARNING**: Exceeding these ratios risks work deflection, chatter,
@@ -68,19 +68,18 @@ Before machining, test your setup:
 
 Proper center drilling is critical for safe tail support:
 
-1. **Face the workpiece** first for perpendicular reference
-2. **Select appropriate center drill size**:
-   - #2 is general purpose
-   - Match to work diameter
-   - Smaller sizes for minimal cutting force
-
-3. **Drilling technique**:
-   - High spindle speed (center has near-zero surface speed)
-   - Apply cutting oil
-   - Touch off gently to find center
-   - Drill to 2/3 depth of tapered portion
-   - Too shallow: insufficient support
-   - Too deep: center drill breakage
+- **Face the workpiece** first for perpendicular reference
+- **Select appropriate center drill size**:
+  - A `#2` bit is a good general purpose size
+  - Match to work diameter
+  - Smaller sizes for minimal cutting force
+- **Drilling technique**:
+  - High spindle speed (center has near-zero surface speed)
+  - Apply cutting oil
+  - Touch off gently to find center
+  - Drill to 2/3 depth of tapered portion
+  - Too shallow: insufficient support
+  - Too deep: center drill breakage
 
 ### Center Geometry
 
@@ -150,6 +149,7 @@ but need machining for support.
 
 1. **Install temporary tail support** using your center
 2. **Turn a smooth area** wide enough for steady fingers:
+
    - Plan location carefully
    - Allow tool post clearance
    - Consider final operations space

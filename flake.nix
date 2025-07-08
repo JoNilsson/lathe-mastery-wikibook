@@ -44,12 +44,29 @@
         devShells.default = pkgs.mkShell {
           buildInputs = with pkgs; [
             pythonWithPackages
+            nodePackages.markdownlint-cli2
+            gnumake
           ];
 
           shellHook = ''
             echo "MkDocs development environment loaded!"
             echo "Run 'mkdocs serve' to start the development server"
             echo "Visit http://localhost:8000 to view your documentation"
+            echo ""
+            echo "Markdown linting:"
+            echo "  make lint      # Check all markdown files"
+            echo "  make lint-fix  # Auto-fix markdown issues"
+            
+            # Set up convenient aliases
+            alias mdl="markdownlint-cli2 '**/*.md'"
+            alias mdlfix="markdownlint-cli2 --fix '**/*.md'"
+            
+            # Set up git hooks directory
+            if [ -d .git ]; then
+              git config core.hooksPath .githooks
+              echo ""
+              echo "Git hooks configured. Markdown will be auto-fixed on commit."
+            fi
           '';
         };
       });

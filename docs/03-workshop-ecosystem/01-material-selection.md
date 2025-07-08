@@ -72,9 +72,14 @@ types. Understanding the basics helps avoid costly mistakes and frustration.
 
 **Mystery Steel Warning**
 
-Avoid random steel of unknown origin.
+"Mystery steel" refers to any material of unknown composition - salvaged
+parts, unmarked bar stock from estate sales, or that piece of round bar
+that's been in the corner for years. While it's tempting to use free or cheap
+material, especially when starting out, mystery steel creates more problems
+than it solves. The alloy content, heat treatment, and even basic carbon
+content remain unknown, making it impossible to work with predictably.
 
-Without knowing the grade:
+Without knowing the grade, you face several serious challenges:
 
 - Proper speeds and feeds cannot be determined
 - Results will be inconsistent

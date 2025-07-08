@@ -87,12 +87,26 @@ While messier than oils, grease excels in specific applications:
 
 ### Light Machine Oils
 
+While way oil handles the heavy-duty lubrication needs of your lathe, light
+machine oils serve a different but equally important role in the shop. These
+lower-viscosity oils excel where way oil would be too thick or attract too
+much contamination. They're essential for precision mechanisms and operations
+where a heavy oil film would interfere with accuracy. Common applications
+include:
+
 - 3-in-1 oil for delicate mechanisms
 - Instrument lubrication
 - Light grinding operations
 - Sharpening stone lubricant
 
 ### Dry Lubricants
+
+Dry lubricants solve a unique problem in the machine shop: providing
+lubrication where liquid oils would create more problems than they solve. In
+dusty environments or on exposed mechanisms, oil acts like a magnet for chips
+and grinding dust, creating an abrasive paste that accelerates wear. Dry
+lubricants provide the necessary friction reduction without the contamination
+issues. They're particularly valuable in these situations:
 
 - Graphite powder for dusty environments
 - Grinder mechanisms and slides

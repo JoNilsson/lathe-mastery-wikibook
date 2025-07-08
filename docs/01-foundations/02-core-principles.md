@@ -20,7 +20,12 @@ A lathe operates on a beautifully simple principle:
 the workpiece rotates while the cutting tool remains stationary.
 This total reversal of typical cutting dynamics creates unique advantages.
 
-By spinning the material instead of the tool, we achieve:
+By spinning the material instead of the tool, we achieve several fundamental
+advantages that make precision machining possible. This reversal transforms
+the cutting dynamics in ways that benefit both the machinist and the finished
+product. The spinning workpiece distributes cutting forces evenly, while the
+stationary tool provides the stability needed for accurate control. These
+combined effects produce:
 
 - Consistent cutting speeds across the entire surface
 - Minimal tool movement for maximum control
@@ -94,14 +99,19 @@ This "squareness" ensures that:
 Here's a truth that surprises many beginners:
 **Everything is a spring.**
 
-When cutting forces act on the tool and workpiece, every component flexes:
+When cutting forces act on the tool and workpiece, every component flexes to
+some degree. Understanding the relative magnitude of these deflections helps
+you identify where to focus your attention when improving rigidity. The
+following components contribute to total system deflection, listed roughly in
+order of their typical contribution to cutting problems:
 
-- The tool bends slightly
-- The tool post deflects
-- The compound shifts
-- The cross slide twists
-- The carriage flexes
-- The ways compress
+- The tool bends slightly (often the largest source of deflection due to
+  overhang)
+- The tool post deflects (critical joint that must be properly tightened)
+- The compound shifts (especially problematic if gibs are loose)
+- The cross slide twists (can cause tapered cuts if not properly adjusted)
+- The carriage flexes (more noticeable on lighter machines)
+- The ways compress (even cast iron deforms measurably under load)
 
 Even cast iron bends under load.
 The question isn't whether components flex—it's how much.
@@ -193,6 +203,18 @@ As you make your first cuts, return to these concepts.
 Watch how tool pressure affects deflection.
 Feel how different speeds change cutting action.
 Notice the relationship between rigidity and finish quality.
+
+To truly internalize these principles, establish a deliberate practice
+routine that connects theory to physical experience. Each cutting session
+becomes an opportunity to observe and understand the fundamental mechanics at
+work. Consider these focused exercises that will deepen your understanding:
+
+- Make identical cuts at different speeds while keeping notes on finish quality
+- Intentionally extend tool overhang to observe deflection effects
+- Compare cuts made with sharp versus dull tools to understand force
+  relationships
+- Practice feeling the difference between proper and excessive feed rates
+- Document how different materials respond to identical cutting parameters
 
 Theory guides practice.
 Practice illuminates theory.

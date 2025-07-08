@@ -295,6 +295,12 @@ For large movements:
 
 ### When to Use Calipers
 
+Choosing between calipers and micrometers depends on the specific measurement
+task and required accuracy. Calipers excel when you need versatility and
+speed, while micrometers provide superior accuracy for critical dimensions.
+Understanding each tool's strengths helps you select the right instrument for
+the job.
+
 **Advantages**:
 
 - Fast reading and operation
@@ -304,6 +310,9 @@ For large movements:
 - Excellent for comparative measurements
 
 **Best for**:
+
+The following situations particularly benefit from caliper use over other
+measuring tools:
 
 - Quick checks during machining
 - Initial stock measurement
@@ -317,6 +326,12 @@ For large movements:
 - Limited to ~0.001" accuracy
 
 ### When to Use Micrometers
+
+Micrometers provide unmatched accuracy when precision truly matters. Their
+rigid construction and precise thread mechanism eliminate many of the flexing
+and alignment issues that limit caliper accuracy. When your tolerance
+requirements drop below a few thousandths or when you need consistent,
+repeatable measurements, micrometers become essential.
 
 **Advantages**:
 

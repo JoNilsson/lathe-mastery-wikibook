@@ -244,7 +244,11 @@ Some situations resist conventional solutions:
 
 ## Troubleshooting Checklist
 
-When chatter strikes, work through systematically:
+When chatter strikes, work through this checklist systematically. The steps
+are ordered from quickest/easiest fixes to more involved solutions, based on
+the most common causes of chatter. Each step provides diagnostic information
+about the root cause, so don't skip ahead even if you think you know the
+problem:
 
 1. **Reduce speed 30%** - Quick first test
 2. **Check tool overhang** - Minimize immediately

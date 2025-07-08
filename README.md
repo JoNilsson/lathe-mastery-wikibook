@@ -48,4 +48,3 @@ This work is licensed under a
 [lint-badge]: https://github.com/JoNilsson/lathe-mastery-wikibook/actions/workflows/markdown-lint.yml/badge.svg
 [lint-url]: https://github.com/JoNilsson/lathe-mastery-wikibook/actions/workflows/markdown-lint.yml
 [cc-by-sa]: https://creativecommons.org/licenses/by-sa/4.0/
-

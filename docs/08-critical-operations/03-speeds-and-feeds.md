@@ -23,7 +23,10 @@ and time is wasted while tools rub rather than cut. The sweet spot lies
 in understanding the relationship between cutting speed, feed rate, and
 the material being cut.
 
-Proper speeds and feeds ensure:
+Proper speeds and feeds ensure optimal cutting conditions through a complex
+interaction of factors. When cutting parameters are correctly balanced, the
+tool removes material efficiently while generating minimal heat and vibration.
+This balance directly translates into the following operational benefits:
 
 - Maximum material removal rate within safety limits
 - Optimal tool life and economy

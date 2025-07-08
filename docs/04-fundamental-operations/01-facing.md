@@ -52,10 +52,21 @@ consider these options:
 
 **Tool Geometry Requirements**
 
-- Adequate side clearance angle (typically 10-15°)
-- Proper end relief to prevent rubbing
-- Sharp cutting edge for clean finish
-- Sufficient rigidity to handle interrupted cuts
+The geometry of your facing tool directly determines the quality of your
+results. Each angle and feature serves a specific purpose in creating a
+smooth, flat surface. Side clearance prevents the tool from rubbing as it
+moves across the face, while end relief ensures clean cutting action near the
+center. Understanding these requirements helps you select or grind tools that
+produce professional results:
+
+- Adequate side clearance angle (typically 10-15°) - prevents heel dragging
+  on the workpiece
+- Proper end relief to prevent rubbing - especially critical as you approach
+  center
+- Sharp cutting edge for clean finish - dull tools increase forces and
+  degrade surface quality
+- Sufficient rigidity to handle interrupted cuts - the first pass often
+  encounters uneven surfaces
 
 **Material Considerations**
 

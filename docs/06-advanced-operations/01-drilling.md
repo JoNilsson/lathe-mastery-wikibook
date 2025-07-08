@@ -262,12 +262,17 @@ Accurate depth control is essential for blind holes:
 
 ### Oversized Holes
 
+When holes consistently measure larger than the drill diameter, several
+factors may be contributing to the problem. Understanding how each cause
+creates oversized holes helps you diagnose and correct the issue
+systematically.
+
 **Causes**:
 
-- Drill runout in chuck
-- Worn drill margins
-- Excessive feed pressure
-- Incorrect point geometry
+- Drill runout in chuck - creates an orbital motion that enlarges the hole
+- Worn drill margins - allows the drill to wander within the hole
+- Excessive feed pressure - causes drill flexing and unpredictable cutting
+- Incorrect point geometry - unequal cutting edges create imbalanced forces
 
 **Solutions**:
 
@@ -278,12 +283,16 @@ Accurate depth control is essential for blind holes:
 
 ### Wandering Holes
 
+Drill wander results in holes that don't follow the intended path, creating
+location and straightness errors. Each contributing factor affects the drill's
+ability to maintain its course through the material.
+
 **Causes**:
 
-- Inadequate center drilling
-- Missing pilot hole
-- Flexible drill (too long)
-- Incorrect speeds
+- Inadequate center drilling - allows the drill point to walk before engaging
+- Missing pilot hole - forces the drill's non-cutting web to do too much work
+- Flexible drill (too long) - permits lateral deflection under cutting forces
+- Incorrect speeds - creates unstable cutting conditions
 
 **Solutions**:
 
@@ -294,12 +303,17 @@ Accurate depth control is essential for blind holes:
 
 ### Poor Finish
 
+A rough or torn hole surface indicates problems with the cutting process
+itself. Multiple factors can degrade hole quality, often working in
+combination.
+
 **Causes**:
 
-- Insufficient cutting fluid
-- Chips re-cutting
-- Worn tools
-- Wrong speeds/feeds
+- Insufficient cutting fluid - increases friction and heat, causing material
+  adhesion
+- Chips re-cutting - packed chips score the hole walls repeatedly
+- Worn tools - dull edges tear rather than cut cleanly
+- Wrong speeds/feeds - improper parameters prevent clean chip formation
 
 **Solutions**:
 
@@ -310,12 +324,16 @@ Accurate depth control is essential for blind holes:
 
 ### Drill Breakage
 
+Drill breakage is both dangerous and expensive. Understanding the warning
+signs and causes helps prevent catastrophic failures that can damage work and
+equipment.
+
 **Causes**:
 
-- Chips packing in flutes
-- Excessive feed force
-- Drill grabbed in hole
-- Running too fast
+- Chips packing in flutes - creates hydraulic pressure that splits the drill
+- Excessive feed force - overloads the drill beyond its strength limit
+- Drill grabbed in hole - sudden torque spike snaps the drill instantly
+- Running too fast - generates excess heat that weakens the drill
 
 **Solutions**:
 
